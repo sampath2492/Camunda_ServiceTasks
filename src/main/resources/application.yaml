@@ -1,0 +1,8 @@
+spring.datasource.url: jdbc:h2:mem:camunda
+
+server:
+  port: 8080
+
+camunda.bpm.admin-user:
+  id: admin
+  password: admin
